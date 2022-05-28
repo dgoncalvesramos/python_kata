@@ -1,3 +1,5 @@
+#https://www.codewars.com/kata/52597aa56021e91c93000cb0
+
 def move_zeros(array):
     nb_zeros=0
     res=[]
