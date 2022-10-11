@@ -11,4 +11,4 @@ def validBraces(string):
       string=string.replace(b,"")
     if (string.find(c) != -1):
       string=string.replace(c,"")
-  return not len(string)s
+  return not len(string)
